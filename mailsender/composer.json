@@ -1,0 +1,17 @@
+{
+    "name": "Lightweight email server",
+    "description": "REST API with PHP Slim Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafa",
+            "email": "rsg_2008@hotmail.es"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.9",
+        "monolog/monolog": "^1.23",
+        "phpmailer/phpmailer": "^6.0"
+    }
+}

@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "contact": "Solicitá tu cita"
+  },
+  "header": {
+    "title": "Carlos Wo Ching",
+    "pharagraph": "Con más de 10 años de experiencia en el mundo del tatuaje, convenciones internacionales y colaboraciones en estudios de otros países, con la idea de ofrecer el mejor servicio y profesionalidad.", 
+    "btn": "Cotizar"
+  }, 
+  "gallery":{
+    "title": "Portafolio"
+  }, 
+  "services": {
+    "title": "Tatuajes con calidad", 
+    "service1": {
+      "title": "Diseño Personalizado", 
+      "pharagraph": "La verdadera personalización está en esuchar al cliente y adaptar al estilo que se quiere."
+    },
+    "service2": {
+      "title": "Ideas innovadoras", 
+      "pharagraph": "La innovación se ha convertido en una habilidad indispensable en los tatuadores, para crear diseños únicos y de calidad."
+    }, 
+    "service3": {
+      "title": "Re-diseño de tatuajes", 
+      "pharagraph": "Intentemos encontrarle una solución o una respuesta a la pregunta de qué hacer si estoy insatisfecho con mi tatuaje."
+    }, 
+    "service4": {
+      "title": "Los mejores estándares", 
+      "pharagraph": "Siempre se trabaja bajo todas las normas y regulaciones existentes para nuestra profesión."
+    }  
+  }, 
+  "contact": {
+    "direction": "DIRECCIÓN", 
+    "follow": "SEGUIR", 
+    "title": "Contacto", 
+    "subTitle": "Déjenos su contacto para cotizar un trabajo con Carlos Wo Ching", 
+    "fullName": "Nombre Completo", 
+    "email": "Correo electrónico", 
+    "message": "Mensaje...", 
+    "btn": "Enviar"
+  }
+}

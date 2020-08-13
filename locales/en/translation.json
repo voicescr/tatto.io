@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "contact": "Request your appointment"
+  },
+  "header": {
+    "title": "Carlos Wo Ching",
+    "pharagraph": "With more than 10 years of experience tattooing and working in international conventions and collaborations in studios around the world, offering a professional and unique artistic expression.", 
+    "btn": "Quote"
+  }, 
+  "gallery":{
+    "title": "Works"
+  },
+  "services": {
+    "title": "Class tattoos", 
+    "service1": {
+      "title": "Personalized Design", 
+      "pharagraph": "The true customization is in listening to the client and adapting to the style that you want."
+    },
+    "service2": {
+      "title": "Innovative Ideas", 
+      "pharagraph": "Innovation has become an indispensable skill in tattoo artists, to create unique and quality designs."
+    }, 
+    "service3": {
+      "title": "Tattoos Re-design", 
+      "pharagraph": "Let's try to find you a solution or an answer to the question of what to do if I am dissatisfied with my tattoo."
+    }, 
+    "service4": {
+      "title": "The Best Standards", 
+      "pharagraph": "We always work under all existing rules and regulations for our profession."
+    }    
+  }, 
+  "contact": {
+    "direction": "ADDRESS", 
+    "follow": "FOLLOW", 
+    "title": "Contact", 
+    "subTitle": "Leave us your contact to quote a job with Carlos Wo Ching", 
+    "fullName": "Full Name", 
+    "email": "Email", 
+    "message": "Message...", 
+    "btn": "Send"
+  }  
+}
