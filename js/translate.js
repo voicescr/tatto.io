@@ -6,8 +6,8 @@ i18next
       backend: {
           loadPath: 'locales/{{lng}}/{{ns}}.json'
       },
-      fallbackLng: 'es', 
-      //debug: true,
+      //fallbackLng: 'es', 
+      debug: true,
     }, function(err, t) {
       jqueryI18next.init(i18next, $);
       $('.body').localize();
@@ -18,7 +18,8 @@ i18next
            $('.header').localize();
            $('.gallery').localize();
            $('.services').localize();
-           $('.contact').localize();
+           $('.contact').localize(); 
+           $('.slideCtnr').localize();                  
         });
       });
   });

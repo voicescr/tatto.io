@@ -38,5 +38,8 @@
     "email": "Email", 
     "message": "Message...", 
     "btn": "Send"
-  }  
+  }, 
+  "slide-ctnr": {
+    "btn": "View Gallery"
+  }
 }

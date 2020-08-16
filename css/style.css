@@ -23,6 +23,12 @@ body{
 	height: auto; 
 	position: relative;
 }
+.image img{
+	margin: auto;
+}
+.sliderContainer{
+    margin: 30px;
+}
 .video-background{
 	width: 100%; 
 	height: 100%;  
@@ -36,7 +42,30 @@ body{
 	position: absolute; 
 	top: 0; 
 	left: 0;
-	padding: 200px;
+	padding: 200px !important;
+}
+.store{
+    background: white;
+	margin: 30px;
+}
+.store-text{
+	background: #212121;
+	color: white;
+	text-align: left;
+	padding-top: 10px; 
+}
+.store-text h3{
+	font-weight: bold;
+	margin: 0px !important;
+}
+.store-img {
+	margin: auto;
+	text-align: center;
+}
+.store-img img{
+	width: 100% !important;
+	margin: auto;
+	text-align: center;
 }
 .btn span.icon1 {
     background: url(../images/en.png) no-repeat;
@@ -243,6 +272,25 @@ body{
     background:none;
 }
 .agileits-banner-info a:hover{
+    border: solid 2px #ff5722;
+    background: #ff5722;
+    color: #ffffff;
+}
+.agileits-banner-info2 a {
+	color: black;
+    font-size: 1em;
+    padding: .5em 1em;
+    display: block;
+    border: solid 2px black;
+    width: 15%;
+    text-align: center;
+    text-decoration: none;
+    margin: 2em auto 0;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background:none;
+}
+.agileits-banner-info2 a:hover{
     border: solid 2px #ff5722;
     background: #ff5722;
     color: #ffffff;
@@ -472,7 +520,7 @@ body{
     color: #999999;
 }
 .agile_text_box i.fa{
-	color: #00000;
+	color: #0000;
     font-size: 2em;
 }
 .agile_text_box h3{
@@ -563,7 +611,6 @@ body{
     -moz-osx-font-smoothing: grayscale;
     position: relative;
     overflow: hidden;
-    background: #c3c3c33;
     -webkit-transition-property: color;
     transition-property: color;
     -webkit-transition-duration: 0.3s;
@@ -621,8 +668,7 @@ body{
 /*-- //services --*/
 /*-- gallery --*/
 .w3l-gallery-heading h3{
-	text-align:right !impr ortant;
-	color: !impotant;
+	text-align:left; 
 }
 .gallery-grid img {
     width: 100%;
@@ -1551,7 +1597,7 @@ footer{
 	}
 	.agileits-banner-info a {
 		width: 23%;
-		margin: 1em auto 0;
+		margin: auto;
 	}
 	.banner-slider {
 		padding: 2em 0;
@@ -1665,10 +1711,3 @@ footer{
 	}
 
 }
-
-
-.tamaño{
-    font-size: .em;
-}
-
-/*-- //responsive --*/
