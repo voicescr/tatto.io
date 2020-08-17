@@ -277,6 +277,9 @@ body{
     color: #ffffff;
 }
 .agileits-banner-info2 a {
+    width: 70% ;
+}
+.agileits-banner-info2 a {
 	color: black;
     font-size: 1em;
     padding: .5em 1em;
@@ -667,6 +670,9 @@ body{
 }
 /*-- //services --*/
 /*-- gallery --*/
+.col-sm-3{
+	padding-bottom: 20px !important;
+}
 .w3l-gallery-heading h3{
 	text-align:left; 
 }
@@ -1409,7 +1415,7 @@ footer{
 		padding: 8em 1em 1em 1em;
 	}
 	.video-text{
-		padding: 180px;
+		padding: 180px !important;
 	}
 }
 @media(max-width:800px){
@@ -1425,7 +1431,10 @@ footer{
 		min-height: 460px;
 	}
 	.video-text{
-		padding: 150px;
+		padding: 150px !important;
+	}
+	.agileits-banner-info2 a {
+    	width: 70% ;
 	}
 }
 @media(max-width:768px){
@@ -1465,6 +1474,9 @@ footer{
 		font-size: 1.5em;
 		margin: 2em 0 0 0;
 	}
+	.agileits-banner-info2 a {
+    	width: 70% ;
+	}	
 }
 @media(max-width:667px){
 	.agileits-banner-info h3 {
@@ -1486,6 +1498,9 @@ footer{
 	.w3-agile-view .w3lmask {
 		padding: 7em 1em 1em 1em;
 	}
+	.agileits-banner-info2 a {
+    	width: 70% ;
+	}	
 }
 @media(max-width:640px){
 	.w3-agileits-services-left {
@@ -1504,6 +1519,9 @@ footer{
 	.w3-agile-view .w3lmask {
 		padding: 6em 1em 1em 1em;
 	}
+	.agileits-banner-info2 a {
+    	width: 70% ;
+	}	
 }
 @media(max-width:600px){
 	.banner-slider {
@@ -1520,7 +1538,7 @@ footer{
 		margin: 1.5em 0 0 0;
 	}
 	.video-text{
-		padding: 0px;
+		padding: 0px !important;
 	}
 }
 @media(max-width:568px){
@@ -1535,7 +1553,7 @@ footer{
 		font-size: 1.5em;
 	}
 	.video-text{
-		padding: 0px;
+		padding: 0px !important;
 	}
 }
 @media(max-width:480px){
@@ -1585,7 +1603,10 @@ footer{
 		margin: 2em 0 0 0;
 	}
 	.video-text{
-		padding: 0px;
+		padding: 0px !important;
+	}
+	.agileits-banner-info2 a {
+    	width: 70% ;
 	}
 }
 @media(max-width:414px){
@@ -1640,11 +1661,17 @@ footer{
 		font-size: 1em;
 	}
 	.video-text{
-		padding: 0px;
+		padding: 0px !important;
 	}
+	.agileits-banner-info2 a {
+    	width: 70% ;
+	}	
 }
 @media(max-width:384px){
 	.agileits-banner-info {
+		width: 100%;
+	}
+	.agileits-banner-info2 {
 		width: 100%;
 	}
 	.top-nav {
@@ -1683,6 +1710,11 @@ footer{
 		font-size: .6em;
 	}
 	.agileits-banner-info a {
+		width: 28%;
+		margin: 1em auto 0;
+		padding: .3em 1em;
+	}
+	.agileits-banner-info2 a {
 		width: 28%;
 		margin: 1em auto 0;
 		padding: .3em 1em;
