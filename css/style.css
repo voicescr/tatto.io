@@ -1625,6 +1625,9 @@ footer{
 	}		
 }
 @media(max-width:414px){
+	.video-container {
+		height: 35vh;
+	}
 	.w3layouts-logo h1 a {
 		font-size: .7em;
 	}
@@ -1632,7 +1635,7 @@ footer{
 		font-size: 2em;
 	}
 	.agileits-banner-info a {
-		width: 23%;
+		width: 45%;
 		margin: auto;
 	}
 	.banner-slider {
@@ -1722,6 +1725,9 @@ footer{
 	}
 }
 @media(max-width:320px){
+	.video-container {
+		height: 35vh;
+	}
 	.w3layouts-logo h1 a {
 		font-size: .6em;
 	}
