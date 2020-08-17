@@ -1476,7 +1476,10 @@ footer{
 	}
 	.agileits-banner-info2 a {
     	width: 70% ;
-	}	
+	}
+	.image img {
+		width: 90vw;
+	}		
 }
 @media(max-width:667px){
 	.agileits-banner-info h3 {
@@ -1501,6 +1504,9 @@ footer{
 	.agileits-banner-info2 a {
     	width: 70% ;
 	}	
+	.image img {
+		width: 90vw;
+	}		
 }
 @media(max-width:640px){
 	.w3-agileits-services-left {
@@ -1521,7 +1527,10 @@ footer{
 	}
 	.agileits-banner-info2 a {
     	width: 70% ;
-	}	
+	}
+	.image img {
+		width: 90vw;
+	}			
 }
 @media(max-width:600px){
 	.banner-slider {
@@ -1540,6 +1549,9 @@ footer{
 	.video-text{
 		padding: 0px !important;
 	}
+	.image img {
+		width: 90vw;
+	}		
 }
 @media(max-width:568px){
 	.captn {
@@ -1608,6 +1620,9 @@ footer{
 	.agileits-banner-info2 a {
     	width: 70% ;
 	}
+	.image img {
+		width: 90vw;
+	}		
 }
 @media(max-width:414px){
 	.w3layouts-logo h1 a {
@@ -1666,7 +1681,11 @@ footer{
 	.agileits-banner-info2 a {
     	width: 70% ;
 	}	
+	.image img {
+		width: 90vw;
+	}		
 }
+
 @media(max-width:384px){
 	.agileits-banner-info {
 		width: 100%;
@@ -1690,6 +1709,9 @@ footer{
 	.w3agile_contact_right {
 		min-height: 365px;
 	}
+	.image img {
+		width: 90vw;
+	}		
 }
 @media(max-width:375px){
 	.header {
@@ -1741,5 +1763,8 @@ footer{
 	.w3-agile-view .w3lmask {
 		padding: 4em 1em 1em 1em;
 	}
+	.image img {
+		width: 90vw;
+	}		
 
 }
